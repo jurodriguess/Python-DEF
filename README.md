@@ -8,7 +8,7 @@ Tecnologias utilizadas -
 
 Python
 
-Editor de código (PyCharm)
+(PyCharm)
 
 Como funciona -
 
